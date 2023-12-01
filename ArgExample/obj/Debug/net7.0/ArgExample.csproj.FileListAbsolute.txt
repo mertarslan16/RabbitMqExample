@@ -1,0 +1,14 @@
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\bin\Debug\net7.0\ArgExample.exe
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\bin\Debug\net7.0\ArgExample.deps.json
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\bin\Debug\net7.0\ArgExample.runtimeconfig.json
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\bin\Debug\net7.0\ArgExample.dll
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\bin\Debug\net7.0\ArgExample.pdb
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\obj\Debug\net7.0\ArgExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\obj\Debug\net7.0\ArgExample.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\obj\Debug\net7.0\ArgExample.AssemblyInfo.cs
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\obj\Debug\net7.0\ArgExample.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\obj\Debug\net7.0\ArgExample.dll
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\obj\Debug\net7.0\refint\ArgExample.dll
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\obj\Debug\net7.0\ArgExample.pdb
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\obj\Debug\net7.0\ArgExample.genruntimeconfig.cache
+C:\Users\Mert\Desktop\RabbitMQ\ArgExample\obj\Debug\net7.0\ref\ArgExample.dll

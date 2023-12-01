@@ -1,0 +1,17 @@
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\bin\Debug\net7.0\ConsumerRb.exe
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\bin\Debug\net7.0\ConsumerRb.deps.json
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\bin\Debug\net7.0\ConsumerRb.runtimeconfig.json
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\bin\Debug\net7.0\ConsumerRb.dll
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\bin\Debug\net7.0\ConsumerRb.pdb
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\ConsumerRb.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\ConsumerRb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\ConsumerRb.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\ConsumerRb.AssemblyInfo.cs
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\ConsumerRb.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\ConsumerRb.csproj.CopyComplete
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\ConsumerRb.dll
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\refint\ConsumerRb.dll
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\ConsumerRb.pdb
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\ConsumerRb.genruntimeconfig.cache
+C:\Users\Mert\Desktop\RabbitMQ\Producer\ConsumerRb\obj\Debug\net7.0\ref\ConsumerRb.dll
